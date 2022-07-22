@@ -215,6 +215,7 @@ body {
     color: whitesmoke;
     font-size: 1rem;
     filter: drop-shadow(5px 5px 4px #1a1a1d);
+    font-family: 'Koulen';
 }
 
 .buttons > button:hover {
