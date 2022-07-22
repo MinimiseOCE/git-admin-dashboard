@@ -192,13 +192,18 @@ body {
     gap: 0;
 }
 
+#pfText > p {
+    color: white;
+}
+
 #pfText > div {
     margin: 0;
     padding: 0;
 }
 
 #user {
-    color: rgb(255, 255, 255);
+    color: rgb(9, 255, 0);
+    letter-spacing: 0.12vw;
 }
 
 .buttons {
@@ -213,7 +218,7 @@ body {
     background-color: #1A1A1D;
     border-color: #C3073F;
     color: whitesmoke;
-    font-size: 1rem;
+    font-size: 1.5rem;
     filter: drop-shadow(5px 5px 4px #1a1a1d);
     font-family: 'Koulen';
 }
